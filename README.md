@@ -147,7 +147,6 @@ I build systems that improve **developer productivity and intelligent workflows*
 # ⚡ Developer Activity Feed
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
