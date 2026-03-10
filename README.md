@@ -78,44 +78,32 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🚀 Featured Projects
 
-<a href="https://github.com/Shahji-01/LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=LMS&theme=tokyonight" />
-</a>
+[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LMS&theme=tokyonight)](https://github.com/YOUR_USERNAME/LMS)
 
-<a href="https://github.com/Shahji-01/Calchub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Calchub&theme=tokyonight" />
-</a>
+[![Calchub](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Calchub&theme=tokyonight)](https://github.com/YOUR_USERNAME/Calchub)
 
-<a href="https://github.com/Shahji-01/FreeApiDirectory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=FreeApiDirectory&theme=tokyonight" />
-</a>
+[![FreeApiDirectory](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=FreeApiDirectory&theme=tokyonight)](https://github.com/YOUR_USERNAME/FreeApiDirectory)
 
-<a href="https://github.com/Shahji-01/Airbnb-Clone-WanderLust">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Airbnb-Clone-WanderLust&theme=tokyonight" />
-</a>
+[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Airbnb-Clone-WanderLust&theme=tokyonight)](https://github.com/YOUR_USERNAME/Airbnb-Clone-WanderLust)
 
-<a href="https://github.com/Shahji-01/ReactMovie_WebApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=ReactMovie_WebApp&theme=tokyonight" />
-</a>
+[![ReactMovie](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ReactMovie_WebApp&theme=tokyonight)](https://github.com/YOUR_USERNAME/ReactMovie_WebApp)
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahji-01&layout=compact&theme=tokyonight"/>
-
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Shahji-01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
+
 ---
 
 # 📈 Contribution Activity Graph
