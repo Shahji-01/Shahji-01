@@ -78,29 +78,36 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🚀 Featured Projects
 
-<a href="https://github.com/Shahji-01/BrainOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=BrainOS&theme=tokyonight"/>
+<a href="https://github.com/Shahji-01/LMS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=LMS&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Shahji-01/Dev-Snippet-Vault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Dev-Snippet-Vault&theme=tokyonight"/>
+<a href="https://github.com/Shahji-01/Calchub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Calchub&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Shahji-01/Focus-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Focus-Intelligence-System&theme=tokyonight"/>
+<a href="https://github.com/Shahji-01/FreeApiDirectory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=FreeApiDirectory&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Shahji-01/Airbnb-Clone-WanderLust">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Airbnb-Clone-WanderLust&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Shahji-01/ReactMovie_WebApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=ReactMovie_WebApp&theme=tokyonight" />
+</a>
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahji-01&layout=compact&theme=tokyonight"/>
-</p>
+
+</p>>
 
 ---
 
@@ -109,7 +116,6 @@ I build systems that improve **developer productivity and intelligent workflows*
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Shahji-01&theme=tokyonight"/>
 </p>
-
 ---
 
 # 📈 Contribution Activity Graph
