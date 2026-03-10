@@ -1,4 +1,3 @@
-
 <!-- ================= HEADER ================= -->
 
 <p align="center">
@@ -78,23 +77,26 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🚀 Featured Projects
 
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=LMS&theme=tokyonight)](https://github.com/Shahji-01/LMS)
+[![LMS](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shahji-01\&repo=LMS\&theme=tokyonight)](https://github.com/Shahji-01/LMS)
 
-[![Calchub](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Calchub&theme=tokyonight)](https://github.com/Shahji-01/Calchub)
+[![Calchub](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shahji-01\&repo=Calchub\&theme=tokyonight)](https://github.com/Shahji-01/Calchub)
 
-[![FreeApiDirectory](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=FreeApiDirectory&theme=tokyonight)](https://github.com/Shahji-01/FreeApiDirectory)
+[![FreeApiDirectory](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shahji-01\&repo=FreeApiDirectory\&theme=tokyonight)](https://github.com/Shahji-01/FreeApiDirectory)
 
-[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Airbnb-Clone-WanderLust&theme=tokyonight)](https://github.com/Shahji-01/Airbnb-Clone-WanderLust)
+[![Airbnb Clone](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shahji-01\&repo=Airbnb-Clone-WanderLust\&theme=tokyonight)](https://github.com/Shahji-01/Airbnb-Clone-WanderLust)
 
-[![ReactMovie](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=ReactMovie_WebApp&theme=tokyonight)](https://github.com/Shahji-01/ReactMovie_WebApp)
+[![ReactMovie](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shahji-01\&repo=ReactMovie_WebApp\&theme=tokyonight)](https://github.com/Shahji-01/ReactMovie_WebApp)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahji-01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shahji-01&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -115,7 +117,7 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🌆 Contribution Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahji-01&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahji-01&theme=tokyonight"/>
 
 ---
 
@@ -135,13 +137,14 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 📊 GitHub Metrics Dashboard
 
-<img src="https://metrics.lecoq.io/Shahji-01?template=classic&languages=1&activity=1&followup=1&isocalendar=1&lines=1&stars=1"/>
+<img src="https://metrics.lecoq.io/Shahji-01?template=classic&config_timezone=Asia/Kolkata"/>
 
 ---
 
 # ⚡ Developer Activity Feed
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
