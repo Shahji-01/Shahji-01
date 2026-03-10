@@ -119,35 +119,11 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahji-01&theme=tokyonight"/>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahji-01&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Shahji-01/Shahji-01/blob/output/github-contribution-grid-snake.svg)
 
----
-
-# 📊 GitHub Metrics Dashboard
-
-<img src="https://metrics.lecoq.io/Shahji-01?template=classic&config_timezone=Asia/Kolkata"/>
-
----
-
-# ⚡ Developer Activity Feed
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
 
 # 🌱 Currently Learning
 
