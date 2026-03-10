@@ -78,22 +78,23 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🚀 Featured Projects
 
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LMS&theme=tokyonight)](https://github.com/YOUR_USERNAME/LMS)
+[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=LMS&theme=tokyonight)](https://github.com/Shahji-01/LMS)
 
-[![Calchub](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Calchub&theme=tokyonight)](https://github.com/YOUR_USERNAME/Calchub)
+[![Calchub](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Calchub&theme=tokyonight)](https://github.com/Shahji-01/Calchub)
 
-[![FreeApiDirectory](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=FreeApiDirectory&theme=tokyonight)](https://github.com/YOUR_USERNAME/FreeApiDirectory)
+[![FreeApiDirectory](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=FreeApiDirectory&theme=tokyonight)](https://github.com/Shahji-01/FreeApiDirectory)
 
-[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Airbnb-Clone-WanderLust&theme=tokyonight)](https://github.com/YOUR_USERNAME/Airbnb-Clone-WanderLust)
+[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=Airbnb-Clone-WanderLust&theme=tokyonight)](https://github.com/Shahji-01/Airbnb-Clone-WanderLust)
 
-[![ReactMovie](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ReactMovie_WebApp&theme=tokyonight)](https://github.com/YOUR_USERNAME/ReactMovie_WebApp)
+[![ReactMovie](https://github-readme-stats.vercel.app/api/pin/?username=Shahji-01&repo=ReactMovie_WebApp&theme=tokyonight)](https://github.com/Shahji-01/ReactMovie_WebApp)
+
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shahji-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahji-01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -101,7 +102,7 @@ I build systems that improve **developer productivity and intelligent workflows*
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Shahji-01&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -112,16 +113,16 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 ---
 
-# 🌆 3D Contribution Skyline
+# 🌆 Contribution Overview
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Shahji-01&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahji-01&theme=tokyonight" />
 
 ---
 
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahji-01&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shahji-01&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
