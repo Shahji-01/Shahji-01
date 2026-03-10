@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: JamesIves/github-activity-readme@v0.4.0
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
