@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Systems+Builder;Developer+Tools+Creator;Building+Scalable+AI+Platforms;Automation+%7C+SaaS+%7C+Developer+Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Engineer;AI+Systems+Builder;Developer+Tools+Creator;Building+Scalable+Platforms"/>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 # 🤖 Developer Identity
 
-🧠 Full-Stack Developer focused on **AI systems, developer tools, automation platforms, and scalable SaaS architectures**.
+🧠 **MERN Stack & Full-Stack Developer** focused on building **AI systems, developer tools, automation platforms, and scalable SaaS architectures**.
 
-I build systems that improve **developer productivity and intelligent workflows**.
+I design and build **modern web applications with React, Node.js, Express, and MongoDB**.
 
 ---
 
@@ -32,10 +32,11 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🎯 Technical Focus
 
-• AI systems & automation
+• MERN Stack Applications
+• AI-powered systems
 • Developer productivity platforms
-• Scalable SaaS infrastructure
-• Intelligent backend architectures
+• Scalable SaaS architecture
+• Intelligent backend systems
 
 ---
 
@@ -51,23 +52,38 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 🛠 Tech Stack
 
-### Frontend
+## MERN Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+---
+
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
-### Backend
+---
+
+## Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-### Database
+---
+
+## Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
-### Infrastructure
+---
+
+## Infrastructure & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
@@ -119,11 +135,13 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahji-01&theme=tokyonight"/>
 
+---
 
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Shahji-01/Shahji-01/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 # 🌱 Currently Learning
 
@@ -135,7 +153,7 @@ I build systems that improve **developer productivity and intelligent workflows*
 
 # 💬 Ask Me About
 
-React • Node.js • AI Systems • Developer Tools
+MERN • React • Node.js • AI Systems • Developer Tools
 
 ---
 
